@@ -8,4 +8,4 @@ supabase:
     https://supabase.com/dashboard/project/wbbgzrkaguctisflocok
 
 vercel:
-    
+    https://vercel.com/tianyicaiis-projects/ct45557
